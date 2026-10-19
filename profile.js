@@ -1,9 +1,9 @@
 
 /*
- * File Name: profile.js
+
  * Author: Kent Adrian
  * Subject: IT103 - Programming 1
- * Week 2: Variables and Data Types
+
  */
 
 // Declare variables with different data types.
